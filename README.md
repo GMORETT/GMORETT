@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - 🤖 **Specializations**: Web developer specialized in Machine Learning, AI, and Web3 with a focus on Python.
 
 ## 💡 Technologies and Tools
-- **Back-End**: Python (Django, Flask), Javascript, Node.js
-- **Front-End**: React.js, HTML/CSS, Javascript
+- **Back-End**: Python (Django, Flask), Node.js
+- **Front-End**: React.js
 - **Blockchain**: Experience with Ethereum and Smart Contracts
 - **Cloud**: AWS
 - **DevOps**: Docker, Workflow integration and automation
