@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - **Back-End**: Python (Django, Flask), Node.js
 - **Front-End**: React.js
 - **Blockchain**: Experience with Ethereum and Smart Contracts
+- **Machine Learning**: Experienced in training models, data analysis, and developing chatbots for interactive and data-driven applications.
 - **Cloud**: AWS
 - **DevOps**: Docker, Workflow integration and automation
 
