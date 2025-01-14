@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - 💻 **Software Developer**: Experienced in various technologies, including Python, Django, Node.js, and React.
 - 🌍 **Location**: Rio de Janeiro, Brazil.
 - 🚀 **Interests**: Machine Learning (AI), Development of decentralized applications (DApps), blockchain transaction management, solutions for banking systems.
-- 🤖 **Specializations**: Web developer specialized in Machine Learning, AI, and Web3 with a focus on Python.
+- 🤖 **Specializations**: Machine Learning, AI and Web3.
 
 ## 💡 Technologies and Tools
 - **Back-End**: Python (Django, Flask), Node.js
