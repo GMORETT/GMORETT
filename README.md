@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gabriel Braga Morett, a Software Developer from Rio de Janeiro, Brazil
+# 👋 Hello, I'm Gabriel Braga Morett, a Software Developer
 
 Welcome to my GitHub profile! I'm passionate about technology, software development, and innovative solutions. Here you'll find projects that reflect my experience and interests in various areas of technology.
 
