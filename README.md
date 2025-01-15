@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 - **Blockchain**: Experience with Ethereum and Smart Contracts
 - **Machine Learning**: Experienced in training models, data analysis, and developing chatbots for interactive and data-driven applications.
 - **Cloud**: AWS
-- **DevOps**: Docker, Workflow integration and automation
+- **DevOps**: Docker, workflow integration and automation
 
 ## 💌 Get in Touch
 - **Email**: [morett.gabriel@gmail.com]
