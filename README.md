@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm passionate about technology, software development, and innovative solutions. Here you'll find projects that reflect my experience and interests in various areas of technology.
 
 ## About Me
-- 💻 **Software Developer**: Experienced in various technologies, including Python, Django, Node.js, and React.
+- 💻 **Software Developer**: Experienced in various technologies, including Python, JS, Node.js, and React.
 - 🌍 **Location**: Rio de Janeiro, Brazil.
-- 🚀 **Interests**: Machine Learning (AI), Development of decentralized applications (DApps), blockchain transaction management, solutions for banking systems.
-- 🤖 **Specializations**: Machine Learning, AI and Web3.
+- 🚀 **Interests**: Machine Learning (AI), Web3, Development of decentralized applications (DApps), blockchain transaction management, solutions for banking systems.
+- 🤖 **Specializations**: AI, Web3 and Machine Learning.
 
 ## 💡 Technologies and Tools
-- **Back-End**: Python (Django, Flask), Node.js
+- **Back-End**: Python, Node.js
 - **Front-End**: React.js
 - **Blockchain**: Experience with Ethereum and Smart Contracts
 - **Machine Learning**: Experienced in training models, data analysis, and developing chatbots for interactive and data-driven applications.
